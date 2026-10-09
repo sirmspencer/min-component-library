@@ -7,7 +7,6 @@
   ],
   "license": "UNLICENCED",
   "scripts": {
-    "build": "rimraf build && tsc",
     "dev": "tsc-watch --onSuccess \"echo rebuilt\""
   },
   "devDependencies": {
